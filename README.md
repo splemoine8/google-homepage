@@ -1,0 +1,1 @@
+This is a sample project to understand exactyl how to build an HTML website! 
